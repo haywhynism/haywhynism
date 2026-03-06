@@ -219,39 +219,6 @@ input::placeholder {
     font-size: 18px;
 }
 
-.latest-code {
-    margin-top: 190px !important;
-    margin-bottom: 40px !important;
-}
-
-.nav-underline .nav-link{
-    border:none !important;
-}
-
-.nav-underline .nav-link:hover {
-    color: white !important;
-}
-
-.nav-underline .nav-link {
-    padding-bottom: 10px !important;
-    font-size: 15px;
-    font-weight: normal;
-    color: #94949b !important;
-}
-
-.nav-underline .nav-link.active {
-   color: white !important;
-   border-bottom: 2.5px solid #B39AFF !important;
-   font-weight: normal !important;
-}
-
-.tab-content div {
-    color: #B39AFF;
-    font-family: monospace;
-    font-weight: lighter;
-    font-size: 14px;
-}
-
 
 @media (max-width:2770px) {
     header {
@@ -401,7 +368,7 @@ input::placeholder {
         margin-left: 100px !important;
     }
 
-    .image3 {
+        .image3 {
         width: 100%;
         object-fit: cover;
         padding-left: 140px !important;
@@ -421,6 +388,7 @@ input::placeholder {
         height: 360px;
         object-fit: cover;
         position: relative;
+
     }
 
     .posit {
@@ -471,7 +439,6 @@ input::placeholder {
         font-size: 40.5px !important;
         margin: 0 !important;
         padding-left: 44px !important;
-     
     }
 
     .free2 {
@@ -485,16 +452,6 @@ input::placeholder {
         margin-top: 180px !important;
         height: 90px;
     }
-
-    .vite-img img {
-        height: 300px !important;
-        margin-top: 250px !important;
-    }
-
-    .latest-code {
-    margin-top: 70px !important;
-}
-    
 }
 
 @media (max-width:425px) and (min-width:375px) {
