@@ -252,7 +252,6 @@ input::placeholder {
     font-size: 14px;
 }
 
-
 @media (max-width:2770px) {
     header {
         max-width: 1460px !important;
@@ -471,7 +470,6 @@ input::placeholder {
         font-size: 40.5px !important;
         margin: 0 !important;
         padding-left: 44px !important;
-     
     }
 
     .free2 {
@@ -493,7 +491,6 @@ input::placeholder {
 
     .latest-code {
     margin-top: 70px !important;
-   
 }
     
 }
@@ -503,4 +500,21 @@ input::placeholder {
         font-size: 30px;
         width: 290px !important;
     }
+}
+.para {
+    border: 1px solid #3B3440 !important;
+    border-radius: 10px;
+    background-color: #13121a;
+    cursor: pointer;
+}
+
+.para:hover {
+    border-color: transparent !important;
+    background: linear-gradient(#13121a, #13121a) padding-box,
+        linear-gradient(to right,
+            #7D3CC5, #7D3CC5, #9857de, #7D3CC5, #ae75e9, #7D3CC5, #FBB2FF, #7D3CC5, #7D3CC5,
+            #ae75e9, #7D3CC5, #FBB2FF, #7D3CC5, #7D3CC5, #ae75e9, #7D3CC5, #ae75e9, #7D3CC5,
+            #ae75e9, #7D3CC5, #7D3CC5, #FBB2FF, #7D3CC5, #7D3CC5, #ae75e9, #7D3CC5);
+    background-size: 200% 200% !important;
+    animation: rotateGradientBorder 50s linear infinite;
 }
