@@ -1,8 +1,11 @@
-## Hi, I'm Emmanuel Adegbite 👋
+## Hi, I'm Emmanuel Adegbite
 
-Full-Stack Developer | React • Next.js • Node.js • JavaScript • Typescript
-HND Computer Engineering → BSc Computer Science (UK pathway)
+Full-Stack Developer | React • Next.js • Node.js • JavaScript • TypeScript
 
-**Tech:** JavaScript, TypeScript, React, Next.js, Node, Tailwind, Boostrap, MongoDb
-**Currently:** Building SaaS apps & preparing for UK Top-up
+**Stack:** JavaScript, TypeScript, React, Next.js, Node, Tailwind, MongoDB
 
+**Currently:** Building client projects + School projects (124 commits this month)
+**Focus:** Clean UI, responsive apps, real-world dashboards
+
+
+Open to freelance React.js, Node/express.js, and  Next.js projects.
