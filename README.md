@@ -1,4 +1,4 @@
-## Hi, I'm [Emmanuel Adegbite] 👋
+## Hi, I'm Emmanuel Adegbite 👋
 
 Full-Stack Developer | React • Next.js • Node.js • JavaScript • Typescript
 HND Computer Engineering → BSc Computer Science (UK pathway)
