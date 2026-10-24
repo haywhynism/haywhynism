@@ -1,10 +1,10 @@
 ## Hi, I'm Emmanuel Adegbite
 
-Full-Stack Developer | React • Next.js • Node.js • JavaScript • TypeScript
+Full-Stack Developer
 
-**Stack:** JavaScript, TypeScript, React, Next.js, Node, Tailwind, MongoDB
+**Stack:** JavaScript, TypeScript, React, Next.js, Node.js, Tailwind, Bootstrap, and MongoDB
 
-**Currently:** Building client projects + School projects (124 commits this month)
+**Currently:** Building client projects + School projects
 **Focus:** Clean UI, responsive apps, real-world dashboards
 
 
